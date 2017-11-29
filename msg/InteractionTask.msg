@@ -1,0 +1,4 @@
+std_msgs/Bool enable
+std_msgs/Int32 interactionMode
+std_msgs/Float64 requiredForce
+geometry_msgs/Point interactionDirection
